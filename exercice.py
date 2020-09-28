@@ -3,7 +3,8 @@
 
 
 def order(values: list = None) -> bool:
-    if values is None:
+    if words is None:
+        
         # TODO: Demander les valeurs ici
         pass
 
