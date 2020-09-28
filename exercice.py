@@ -4,7 +4,7 @@
 
 def order(values: list = None) -> bool:
     if values is None:
-        values = 
+        values = []
         pass
 
     return False
