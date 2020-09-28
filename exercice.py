@@ -16,7 +16,8 @@ def anagrams(words: list = None) -> bool:
         chaine1, chaine2 = input(), input()
         liste1, liste2 = list(chaine1), liste(chaine2)
 
-        liste1
+        liste1.sort()
+        liste2.sort
         pass
 
     return False
