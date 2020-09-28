@@ -20,8 +20,6 @@ def anagrams(words: list = None) -> bool:
         
     return liste1 == liste2
 
-    return False
-
 
 def contains_doubles(items: list) -> bool:
     return False
