@@ -4,7 +4,7 @@
 
 def order(values: list = None) -> bool:
     if values is None:
-        values = [input("Entrez les valeurs")]
+        values = [input("Entrez les valeurs") for _ in ]
         pass
 
     return False
