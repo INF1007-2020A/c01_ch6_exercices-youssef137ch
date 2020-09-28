@@ -19,7 +19,7 @@ def anagrams(words: list = None) -> bool:
         liste1.sort()
         liste2.sort()
         
-    return liste1 ==
+    return liste1 == liste2
 
     return False
 
