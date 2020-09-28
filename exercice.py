@@ -8,7 +8,6 @@ def order(values: list = None) -> bool:
         
     return values == sorted(values)
 
-    return False
 
 
 def anagrams(words: list = None) -> bool:
