@@ -12,7 +12,7 @@ Traceback (most recent call last):
     output = [exercice.anagrams(v) for v in words]
   File "test_exercice.py", line 35, in <listcomp>
     output = [exercice.anagrams(v) for v in words]
-  File "/home/runner/work/c01_ch6_exercices-youssef137ch/c01_ch6_exercices-youssef137ch/exercice.py", line 21, in anagrams
+  File "/home/runner/work/c01_ch6_exercices-youssef137ch/c01_ch6_exercices-youssef137ch/exercice.py", line 22, in anagrams
     return liste1 == liste2
 UnboundLocalError: local variable 'liste1' referenced before assignment
 
